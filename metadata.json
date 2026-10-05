@@ -1,0 +1,6 @@
+{
+  "name": "SAFFRON & EMBER — Contemporary Hearth & Dining",
+  "description": "Experience modern artisan gastronomy where ancient charcoal hearths meet contemporary culinary artistry. Reserve a table, explore our curated seasonal menu, and discover culinary craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
